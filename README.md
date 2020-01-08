@@ -1,4 +1,4 @@
-# 🍻 homebrew-taps
+# 🍻 1up's homebrew-taps
 
 A repo to put things we want to distribute through brew.
 
