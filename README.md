@@ -11,7 +11,7 @@ To tap this tap just run
 ```
 brew tap 1up-lab/taps
 ```
-After the tap is tapped, you can easily install any formula present in this repo, e.g. corectl:
+After the tap is tapped, you can easily install any formula present in this repo, e.g. node@8:
 ```
 brew install node@8
 ```
